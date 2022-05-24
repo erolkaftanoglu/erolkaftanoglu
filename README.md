@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 - ✨ Crafted last [Blog Online](https://erolkaftanoglu.dev) website;
 - 🍑 What about this?
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=erolkaftanoglu.visitor-badge)
+
 
 ##### BIO
 
