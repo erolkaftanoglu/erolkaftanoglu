@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - 🌍 I'm mostly active within the **GDG Istanbul Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **android**, **kotlin**, **flutter**, **firebase**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/erolkaftanoglu)
+- 📫 Reach me: [twitter.com/erolkaftanoglu](https://twitter.com/erolkaftanoglu)
 - ⚡️ Fun fact: I'm a huge fan of Star Wars
