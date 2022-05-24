@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 - 📫 Reach me: [twitter.com/erolkaftanoglu](https://twitter.com/erolkaftanoglu)
 - ⚡️ Fun fact: I'm a huge fan of Star Wars
 
+##### GDG Istanbul Live Sessions
+
+- ⚡️ GDG Istanbul - [Youtube](https://youtube.com/gdgistanbul)
+
 ##### SPEAKINGS
 
 - 🎤 GYBK Bilisim Zirvesi [In Person - Conference](https://gybkbilisimzirvesi.com/)
