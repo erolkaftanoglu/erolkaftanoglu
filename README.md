@@ -41,3 +41,6 @@ Here are some ideas to get you started:
 - 🎤 Google Developer Group Izmir - [IO Extende'22 - Whats new in Firebase?](https://kommunity.com/gdg-cloud-izmir/events/io-extended-22-izmir-3534da65)
 - 🎤 [Flutterstudents](https://twitter.com/Flutterstudents) - Flutter Festival Turquise - Flutter and Firebase QA
 
+##### My Github Stats:
+![Erol's GitHub stats](https://github-readme-stats.vercel.app/api?username=erolkaftanoglu&show_icons=true&theme=tokyonight)
+
