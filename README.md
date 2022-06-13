@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
 ##### SPEAKINGS
 
+- 🎤 GDSC Izmir University of Economics [Online - GDSCIzmirUniversityofEconomics](https://www.youtube.com/watch?v=0VzL4OCBjWM&ab_channel=GDSCIzmirUniversityofEconomics)
 - 🎤 GYBK Bilisim Zirvesi [In Person - Conference](https://gybkbilisimzirvesi.com/)
 - 🎤 Google Developer Group Izmir - [IO Extende'22 - Whats new in Firebase?](https://kommunity.com/gdg-cloud-izmir/events/io-extended-22-izmir-3534da65)
 - 🎤 [Flutterstudents](https://twitter.com/Flutterstudents) - Flutter Festival Turquise - Flutter and Firebase QA
